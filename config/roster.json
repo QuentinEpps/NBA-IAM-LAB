@@ -1,0 +1,106 @@
+{
+  "league": "NBA",
+  "tenantDomain": "nba-iam-lab.onmicrosoft.com",
+  "teams": {
+    "OKC": {
+      "name": "Oklahoma City Thunder",
+      "arena": "Paycom Center",
+      "city": "Oklahoma City",
+      "gm": "Sam Presti",
+      "headCoach": "Mark Daigneault",
+      "players": [
+        { "displayName": "Shai Gilgeous-Alexander", "position": "PG", "jersey": "2",  "status": "active" },
+        { "displayName": "Jalen Williams",           "position": "SG", "jersey": "8",  "status": "active" },
+        { "displayName": "Chet Holmgren",            "position": "C",  "jersey": "7",  "status": "active" },
+        { "displayName": "Luguentz Dort",            "position": "SF", "jersey": "5",  "status": "active" },
+        { "displayName": "Isaiah Hartenstein",       "position": "C",  "jersey": "55", "status": "active" },
+        { "displayName": "Alex Caruso",              "position": "SG", "jersey": "6",  "status": "active" },
+        { "displayName": "Cason Wallace",            "position": "PG", "jersey": "22", "status": "active" },
+        { "displayName": "Ajay Mitchell",            "position": "SG", "jersey": "12", "status": "active" },
+        { "displayName": "Isaiah Joe",               "position": "SG", "jersey": "11", "status": "active" },
+        { "displayName": "Aaron Wiggins",            "position": "SF", "jersey": "21", "status": "active" },
+        { "displayName": "Jaylin Williams",          "position": "PF", "jersey": "6",  "status": "active" },
+        { "displayName": "Kenrich Williams",         "position": "SF", "jersey": "34", "status": "active" },
+        { "displayName": "Ousmane Dieng",            "position": "SF", "jersey": "13", "status": "active" },
+        { "displayName": "Nikola Topic",             "position": "PG", "jersey": "44", "status": "active" },
+        { "displayName": "Jared McCain",             "position": "SG", "jersey": "3",  "status": "active" },
+        { "displayName": "Payton Sandfort",          "position": "SF", "jersey": "19", "status": "active" }
+      ],
+      "coaching": [
+        { "displayName": "Mark Daigneault", "title": "Head Coach",       "department": "Coaching" },
+        { "displayName": "Kameron Woods",   "title": "Assistant Coach",  "department": "Coaching" }
+      ],
+      "medical": [
+        { "displayName": "Dr. James Okoro",  "title": "Team Physician",       "department": "Medical" },
+        { "displayName": "Dr. Sarah Miller", "title": "Assistant Physician",  "department": "Medical" },
+        { "displayName": "Tony Dobbins",     "title": "Head Athletic Trainer","department": "Medical" }
+      ],
+      "frontOffice": [
+        { "displayName": "Sam Presti",   "title": "Executive VP and General Manager",          "department": "FrontOffice" },
+        { "displayName": "Danny Barth",  "title": "Executive VP and Chief Administrative Officer", "department": "FrontOffice" },
+        { "displayName": "Clay Bennett", "title": "Governor and Owner",                         "department": "FrontOffice" }
+      ]
+    },
+    "NYK": {
+      "name": "New York Knicks",
+      "arena": "Madison Square Garden",
+      "city": "New York",
+      "gm": "Leon Rose",
+      "headCoach": "Mike Brown",
+      "players": [
+        { "displayName": "Jalen Brunson",      "position": "PG", "jersey": "11", "status": "active" },
+        { "displayName": "Karl-Anthony Towns", "position": "C",  "jersey": "32", "status": "active" },
+        { "displayName": "OG Anunoby",         "position": "SF", "jersey": "8",  "status": "active" },
+        { "displayName": "Mikal Bridges",      "position": "SF", "jersey": "25", "status": "active" },
+        { "displayName": "Josh Hart",          "position": "SG", "jersey": "3",  "status": "active" },
+        { "displayName": "Mitchell Robinson",  "position": "C",  "jersey": "23", "status": "active" },
+        { "displayName": "Miles McBride",      "position": "SG", "jersey": "2",  "status": "active" },
+        { "displayName": "Tyler Kolek",        "position": "PG", "jersey": "17", "status": "active" },
+        { "displayName": "Jose Alvarado",      "position": "PG", "jersey": "15", "status": "active" },
+        { "displayName": "Jordan Clarkson",    "position": "SG", "jersey": "0",  "status": "active" },
+        { "displayName": "Jeremy Sochan",      "position": "PF", "jersey": "10", "status": "active" },
+        { "displayName": "Guerschon Yabusele", "position": "PF", "jersey": "28", "status": "active" },
+        { "displayName": "Landry Shamet",      "position": "SG", "jersey": "20", "status": "active" },
+        { "displayName": "Kevin McCullar Jr",  "position": "SG", "jersey": "13", "status": "active" },
+        { "displayName": "Ariel Hukporti",     "position": "C",  "jersey": "41", "status": "active" },
+        { "displayName": "Pacome Dadiet",      "position": "SF", "jersey": "7",  "status": "active" },
+        { "displayName": "Mohamed Diawara",    "position": "SG", "jersey": "4",  "status": "active" }
+      ],
+      "coaching": [
+        { "displayName": "Mike Brown",     "title": "Head Coach",      "department": "Coaching" },
+        { "displayName": "Maurice Cheeks", "title": "Assistant Coach", "department": "Coaching" },
+        { "displayName": "Rick Brunson",   "title": "Assistant Coach", "department": "Coaching" },
+        { "displayName": "Jordan Brink",   "title": "Assistant Coach", "department": "Coaching" },
+        { "displayName": "Ricardo Fois",   "title": "Assistant Coach", "department": "Coaching" },
+        { "displayName": "Mark Bryant",    "title": "Assistant Coach", "department": "Coaching" },
+        { "displayName": "Darren Erman",   "title": "Assistant Coach", "department": "Coaching" }
+      ],
+      "medical": [
+        { "displayName": "Dr. Sarah Chen",   "title": "Team Physician",        "department": "Medical" },
+        { "displayName": "Dr. David Park",   "title": "Assistant Physician",   "department": "Medical" },
+        { "displayName": "Mike Saunders",    "title": "Head Athletic Trainer", "department": "Medical" }
+      ],
+      "frontOffice": [
+        { "displayName": "Leon Rose",       "title": "President",                              "department": "FrontOffice" },
+        { "displayName": "William Wesley",  "title": "Executive VP and Senior Advisor",        "department": "FrontOffice" },
+        { "displayName": "Gersson Rosas",   "title": "Senior VP of Basketball Operations",    "department": "FrontOffice" },
+        { "displayName": "Frank Zanin",     "title": "Assistant General Manager",              "department": "FrontOffice" },
+        { "displayName": "Brock Aller",     "title": "Cap Strategist",                        "department": "FrontOffice" }
+      ]
+    }
+  },
+  "hartensteinScenario": {
+    "description": "Isaiah Hartenstein departed the Knicks via free agency in summer 2024 and signed with OKC Thunder. This was NOT a trade — it was a contract expiration followed by a new signing. IAM handling: Invoke-PlayerRelease.ps1 on NYK side (offboarding), then New-PlayerOnboarding.ps1 -TeamCode OKC on Thunder side (fresh account). No 72hr hold, no trade reversal logic.",
+    "offboarding": {
+      "team": "NYK",
+      "script": "Invoke-PlayerRelease.ps1",
+      "reason": "Contract expired — free agency departure"
+    },
+    "onboarding": {
+      "team": "OKC",
+      "script": "New-PlayerOnboarding.ps1",
+      "teamCode": "OKC",
+      "jersey": "55"
+    }
+  }
+}
